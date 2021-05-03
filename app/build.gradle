@@ -47,6 +47,7 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
     // Material Design
     implementation 'com.google.android.material:material:1.4.0-alpha02'
 
@@ -86,7 +87,7 @@ dependencies {
 
     // Timber
     implementation 'com.jakewharton.timber:timber:4.7.1'
-
+    
     // Firebase Firestore
     implementation 'com.google.firebase:firebase-firestore:22.1.2'
 
