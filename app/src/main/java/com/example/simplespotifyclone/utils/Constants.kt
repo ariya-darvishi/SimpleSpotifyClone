@@ -4,5 +4,6 @@ object Constants {
 
     const val SONG_COLLECTION = "songs"
     const val APPLICATION_NAME = "Spotify App"
+    const val SERVICE_TAG = "MusicService"
 
 }
